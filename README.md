@@ -1,0 +1,2 @@
+# Guess My Number
+Guess My Number" is an engaging and interactive JavaScript game that challenges players to deduce a hidden number within a limited range. With each guess, players receive hints to narrow down the possibilities, heightening the suspense with every attempt. As players hone in on the correct answer, they accumulate points, striving to achieve the highest score with the fewest guesses. This game is a delightful mix of luck, logic, and anticipation, perfect for anyone looking to test their deductive reasoning skills.
